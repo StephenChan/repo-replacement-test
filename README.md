@@ -42,3 +42,4 @@ This repo's test involves creating a mirror of the repo to leave the pull reques
 ## Step 4: check for PR number conflicts
 
 - Create a new PR in repo-replacement-test. If it ends up being PR #1, then go back to check the older "merge pull request #1" commit. See if GitHub makes the text "#1" link to the new PR #1.
+    - Yes it becomes PR #1, and yes that link does do that.
